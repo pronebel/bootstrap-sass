@@ -4,13 +4,15 @@ bootstrap-sass
 基本如官方的bootstrap的less版本一样使用
 
 
-	从ruby的bootstrap-sass插件从分离出来的bootstrap的sass内容. 	(It's separated from the plugin of ruby ,called "bootstrap-sass"  )
+	从ruby的bootstrap-sass插件从分离出来的bootstrap的sass内容. 
+	(It's separated from the plugin of ruby ,called "bootstrap-sass"  )
 
 	plugin url: http://rubydoc.info/gems/bootstrap-sass
 
 ##目的：
 	
-	因为对ruby的compass，sass插件比较熟悉，bootstrap-sass的插件生成的sass文件不方便定制修改bootstrap的内容。故从这个插件里分离出出来。
+	因为对ruby的compass，sass插件比较熟悉，bootstrap-sass的插件生成的sass文件不方便定制修改bootstrap的内容。
+	故从这个插件里分离出出来。
 
 
 
